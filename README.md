@@ -1,1 +1,1 @@
-# phyton_training_01
+# Repository for Python Training
